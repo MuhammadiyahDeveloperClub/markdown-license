@@ -1,7 +1,7 @@
                                      LIDI LIDIAN PUBLIC LICENSE
                                       Version 1, November 2016
 
-Copyright (C) 2016 Arie Kurniawan <hubungi.aja@gmail.com>
+CopyStraight (CS) [Year] [Your_Name] [Your_Contact]
 
 Everyone is permitted to copy, distribute and modify copies either slightly or as a whole, everything is permissible as long not violates applicable law.
 
